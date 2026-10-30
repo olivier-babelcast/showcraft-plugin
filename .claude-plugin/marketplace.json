@@ -1,0 +1,25 @@
+{
+  "name": "showcraft",
+  "owner": {
+    "name": "Olivier",
+    "url": "https://getshowcraft.com"
+  },
+  "metadata": {
+    "description": "Showcraft, the studio for people who make videos by talking: its MCP server and the drive command for Claude Code. Public, so anyone installs it; the server itself signs you in.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "showcraft",
+      "source": "./plugins/showcraft",
+      "description": "Showcraft's MCP server (the scripts, takes, ideas, references, the niche's keys) and /showcraft:drive, the loop that answers the app's red button and chat.",
+      "category": "productivity",
+      "keywords": [
+        "youtube",
+        "video",
+        "studio",
+        "mcp"
+      ]
+    }
+  ]
+}

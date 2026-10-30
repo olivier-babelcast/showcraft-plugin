@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "showcraft": {
+      "type": "http",
+      "url": "https://getshowcraft.com/mcp"
+    }
+  }
+}

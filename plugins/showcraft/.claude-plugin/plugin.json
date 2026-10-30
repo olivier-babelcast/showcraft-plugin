@@ -1,0 +1,19 @@
+{
+  "name": "showcraft",
+  "version": "0.1.0",
+  "description": "Showcraft, the studio for people who make videos by talking: its MCP server (the scripts, takes, ideas, references, the niche's keys) and /showcraft:drive, the loop that answers the app's red button and chat.",
+  "author": {
+    "name": "Olivier",
+    "url": "https://getshowcraft.com"
+  },
+  "homepage": "https://getshowcraft.com",
+  "keywords": [
+    "youtube",
+    "video",
+    "studio",
+    "script",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://getshowcraft.com/app/privacy.html",
+  "repository": "https://github.com/olivier-babelcast/showcraft-plugin"
+}
