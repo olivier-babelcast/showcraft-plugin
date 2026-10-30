@@ -15,5 +15,6 @@
     "mcp"
   ],
   "privacyPolicyUrl": "https://getshowcraft.com/app/privacy.html",
-  "repository": "https://github.com/olivier-babelcast/showcraft-plugin"
+  "repository": "https://github.com/olivier-babelcast/showcraft-plugin",
+  "license": "MIT"
 }
